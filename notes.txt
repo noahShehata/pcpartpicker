@@ -1,0 +1,31 @@
+get an idea
+
+read documentation
+  docs.python (grasping information)
+  stackoverflow (lazy way)
+
+Useful code
+  ttk.Label
+  ttk.Combobox
+    virtual event
+      <<ComboboxSelected>>
+  ttk.Spinbox - might not need but noted
+   virtual event
+     <<Increment>>
+      <<Decrement>>
+  ttk.Notebook
+    virtual event
+    <<NotebookTabChanged>>
+  ttk.Treeview
+    virtual event
+     <<TreeviewSelect>>
+      Generated whenever the selection changes.
+
+      <<TreeviewOpen>>
+      Generated just before settings the focus item to open=True.
+
+      <<TreeviewClose>>
+      Generated just after setting the focus item to open=False.
+
+if sum of gpu and cpu wattage > power supply then error displayed
+
